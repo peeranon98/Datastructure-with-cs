@@ -1,0 +1,11 @@
+C:\Users\peeranon98\Desktop\BeforeLunch\testrun\testrun\bin\Debug\netcoreapp2.1\testrun.deps.json
+C:\Users\peeranon98\Desktop\BeforeLunch\testrun\testrun\bin\Debug\netcoreapp2.1\testrun.runtimeconfig.json
+C:\Users\peeranon98\Desktop\BeforeLunch\testrun\testrun\bin\Debug\netcoreapp2.1\testrun.runtimeconfig.dev.json
+C:\Users\peeranon98\Desktop\BeforeLunch\testrun\testrun\bin\Debug\netcoreapp2.1\testrun.dll
+C:\Users\peeranon98\Desktop\BeforeLunch\testrun\testrun\bin\Debug\netcoreapp2.1\testrun.pdb
+C:\Users\peeranon98\Desktop\BeforeLunch\testrun\testrun\obj\Debug\netcoreapp2.1\testrun.csprojAssemblyReference.cache
+C:\Users\peeranon98\Desktop\BeforeLunch\testrun\testrun\obj\Debug\netcoreapp2.1\testrun.csproj.CoreCompileInputs.cache
+C:\Users\peeranon98\Desktop\BeforeLunch\testrun\testrun\obj\Debug\netcoreapp2.1\testrun.AssemblyInfoInputs.cache
+C:\Users\peeranon98\Desktop\BeforeLunch\testrun\testrun\obj\Debug\netcoreapp2.1\testrun.AssemblyInfo.cs
+C:\Users\peeranon98\Desktop\BeforeLunch\testrun\testrun\obj\Debug\netcoreapp2.1\testrun.dll
+C:\Users\peeranon98\Desktop\BeforeLunch\testrun\testrun\obj\Debug\netcoreapp2.1\testrun.pdb
